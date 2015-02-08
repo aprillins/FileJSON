@@ -1,5 +1,10 @@
 <?php
 
+/*
+ *  Author: aprillins
+ *
+ */
+
 class FileJSON{
 	private $data;
 	private $filename;
