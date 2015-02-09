@@ -1,8 +1,9 @@
 <?php
 
 /*
- *  Author: aprillins
- *
+ *  Author 		: aprillins
+ *  Description : Saving and read JSON file
+ *  Version 	: 1.0
  */
 
 class FileJSON{
