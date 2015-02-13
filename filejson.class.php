@@ -1,8 +1,8 @@
 <?php
 
 /*
- *  Author 		: aprillins
- *  Description : Saving and read JSON file
+ *  Author 	: aprillins
+ *  Description : Saving and read JSON file. Variable $data must be an array.
  *  Version 	: 1.0
  */
 
